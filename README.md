@@ -1,5 +1,10 @@
 # Lektion 15 december
 
+## Inspelningar
+
+Förmiddag: 
+Eftermiddag: https://web.microsoftstream.com/video/5234f49b-63e5-4908-86ae-a1d8084a4a4b
+
 ## Övningar
 
 Övning: https://classroom.github.com/a/5ePoGUt-
